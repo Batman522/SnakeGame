@@ -1,6 +1,3 @@
-Here's a README.md file for your Snake game project on GitHub:
-
-
 # Snake Game
 
 A classic Snake game built using Pygame in Python. This project includes features such as a main menu, a scoring system, and a game over screen with options to play again or quit.
